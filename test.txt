@@ -1,0 +1,1 @@
+Hi this test file for learn git merge on git hub.
